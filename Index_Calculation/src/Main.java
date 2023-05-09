@@ -11,6 +11,6 @@ public class Main {
         m = input.nextDouble();
 
         double bodyMossIndex = kg / (m * m ) ;
-        System.out.println("Body Mass Index : " +  bodyMossIndex);
+        System.out.println("Body Mass Index : " + bodyMossIndex);
     }
 }
