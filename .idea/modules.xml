@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Area_circumference_of_the_circle/Area_circumference_of_the_circle.iml" filepath="$PROJECT_DIR$/Area_circumference_of_the_circle/Area_circumference_of_the_circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculate_Area/Calculate_Area.iml" filepath="$PROJECT_DIR$/Calculate_Area/Calculate_Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPA_Calculation/GPA_Calculation.iml" filepath="$PROJECT_DIR$/GPA_Calculation/GPA_Calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Index_Calculation/Index_Calculation.iml" filepath="$PROJECT_DIR$/Index_Calculation/Index_Calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taximeter-Calculation-Program/Taximeter-Calculation-Program.iml" filepath="$PROJECT_DIR$/Taximeter-Calculation-Program/Taximeter-Calculation-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VAT_Amount_Calculator_Program/VAT_Amount_Calculator_Program.iml" filepath="$PROJECT_DIR$/VAT_Amount_Calculator_Program/VAT_Amount_Calculator_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patika-dev-tasks.iml" filepath="$PROJECT_DIR$/.idea/patika-dev-tasks.iml" />
+    </modules>
+  </component>
+</project>
