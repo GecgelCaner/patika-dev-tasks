@@ -11,5 +11,7 @@ public class Main {
             total += (1 / i);
         }
         System.out.print("Cevap : " + total );
+
+
     }
 }
