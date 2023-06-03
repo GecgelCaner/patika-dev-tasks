@@ -1,0 +1,24 @@
+Proje 3
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+
+
+
+                 4
+               /   \
+	     1       7
+	    / \	    / \
+           0   3   5   8
+	      /	    \   \
+     	     2	     6   9
+
+ 1- 4'ü root olarak alıyoruz.
+ 2- 7 4'ten büyük sağ çocuk olur.
+ 3- 5 4'ten büyük 7'den küçük oldugu 7'nin sol çocugu oldu.
+ 4- 1 4'ten küçük sol çocuk olur.
+ 5- 8 4 ve 7 den büyük sağ çocuk olur.
+ 6- 3 4 ten küçük 1 den büyük oldugu için 1 in sağ çocuğu olur.
+ 7- 6 4 ten büyük 7 den küçük 5 ten büyük oldugu için 5 in sağ çocugu olur.
+ 8- 0 4 ve 1 den küçük 1 in sol çocugu olur.
+ 9- 9 4,7 ve 8 den büyük  8 in sağ çocuğu olur.
+10- 2 4 ten küçük 1 den büyük 3 tan küçük oldugu için 3 ün sol cocugu olur.
